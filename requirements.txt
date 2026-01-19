@@ -1,0 +1,7 @@
+neo4j==5.14
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+ipykernel
+langchain_neo4j
